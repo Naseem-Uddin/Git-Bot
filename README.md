@@ -12,7 +12,7 @@ Git Bot is a powerful assistant designed to help developers dive into unfamiliar
 
 ### [Getting Started](https://github.com/Naseem-Uddin/rag_codebase?tab=readme-ov-file#-getting-started)
 
-### [Usage](https://github.com/Naseem-Uddin/rag_codebase/blob/main/README.md#-usage)
+### [Usage](https://github.com/Naseem-Uddin/rag_codebase/tree/main?tab=readme-ov-file#-usage)
 
 ## ✨ Features
 
