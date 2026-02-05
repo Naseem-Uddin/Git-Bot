@@ -4,15 +4,15 @@ Git Bot is a powerful assistant designed to help developers dive into unfamiliar
 
 ## 📋 Table of Contents
 
-### [Features](https://github.com/Naseem-Uddin/rag_codebase/edit/main/README.md#-features)
+### [Features](https://github.com/Naseem-Uddin/rag_codebase?tab=readme-ov-file#-features)
 
-### [How It Works](https://github.com/Naseem-Uddin/rag_codebase/edit/main/README.md#-how-it-works)
+### [How It Works](https://github.com/Naseem-Uddin/rag_codebase?tab=readme-ov-file#-how-it-works)
 
-### [Tech Stack](https://github.com/Naseem-Uddin/rag_codebase/edit/main/README.md#-how-it-works)
+### [Tech Stack](https://github.com/Naseem-Uddin/rag_codebase?tab=readme-ov-file#%EF%B8%8F-tech-stack)
 
-### [Getting Started](https://github.com/Naseem-Uddin/rag_codebase/edit/main/README.md#-getting-started)
+### [Getting Started](https://github.com/Naseem-Uddin/rag_codebase?tab=readme-ov-file#-getting-started)
 
-### [Usage](https://github.com/Naseem-Uddin/rag_codebase/edit/main/README.md#-usage)
+### [Usage]()
 
 ## ✨ Features
 
@@ -76,7 +76,7 @@ GROQ_API_KEY=your_groq_key`
 `streamlit run app.py`
 
 
-📖 Usage
+## 📖 Usage
 
 Enter the URL of any public GitHub repository.
 
